@@ -1,0 +1,2010 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="dashboard_publisher" content="tto" />
+<meta name="dashboard_article_id" content="" />
+<meta name="dashboard_header" content="
+Syrian rebels seize airbase in push on capital
+" />
+<meta name="dashboard_updated_date" content="Mon Nov 26 2012 08:24 UTC+0824" />
+<meta name="dashboard_published_date" content="Mon Nov 26 2012 08:24 UTC+0824" />
+<meta property="twitter:account_id" content="6107422" />
+<link rel="canonical" href="http://www.thetimes.co.uk/tto/news/" />
+<link rel="alternate" type="application/rss+xml"
+title="The Times News"
+href="/tto/news/rss"/>
+<title>
+The Times | UK News, World News and Opinion
+</title>
+<meta name="description" content="News and opinion from The Times" />
+<link rel="shortcut icon" type="image/x-icon" href="/tto/public/75265/img/favicon.ico"/>
+<link rel="apple-touch-icon" href="/tto/public/75265/img/icons/iOS_icon.png" />
+<link rel="stylesheet" type="text/css" href="/tto/public/75265/css/tto-unified.css" media="screen"/>
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/tto/public/75265/css/tto-ie8.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="/tto/public/75265/css/tto-ie9.css" />
+<![endif]-->
+<style type="text/css">
+/* Global color */
+.fg-000000 {color: #000000;}
+.bg-000000 {background-color: #000000;}
+.fg-2d4563 {color: #2d4563;}
+.bg-2d4563 {background-color: #2d4563;}
+.fg-666655 {color: #666655;}
+.bg-666655 {background-color: #666655;}
+.fg-303064 {color: #303064;}
+.bg-303064 {background-color: #303064;}
+.fg-2D4563 {color: #2D4563;}
+.bg-2D4563 {background-color: #2D4563;}
+.fg- {color: #;}
+.bg- {background-color: #;}
+/* Color codes for #2D4563 */
+.fg-2D4563 {color: #2D4563;}
+.bg-2D4563 {background-color: #2D4563;}
+/* Color codes for #850029 */
+.fg-850029 {color: #850029;}
+.bg-850029 {background-color: #850029;}
+/* Color codes for #112244 */
+.fg-112244 {color: #112244;}
+.bg-112244 {background-color: #112244;}
+/* Color codes for #007469 */
+.fg-007469 {color: #007469;}
+.bg-007469 {background-color: #007469;}
+/* Color codes for #0e6100 */
+.fg-0e6100 {color: #0e6100;}
+.bg-0e6100 {background-color: #0e6100;}
+/* Color codes for #733171 */
+.fg-733171 {color: #733171;}
+.bg-733171 {background-color: #733171;}
+/* Color codes for #BB1A00 */
+.fg-BB1A00 {color: #BB1A00;}
+.bg-BB1A00 {background-color: #BB1A00;}
+/* Color codes for #F66200 */
+.fg-F66200 {color: #F66200;}
+.bg-F66200 {background-color: #F66200;}
+/* Color codes for #666666 */
+.fg-666666 {color: #666666;}
+.bg-666666 {background-color: #666666;}
+</style>
+<script type="text/javascript">
+//<![CDATA[
+var tto = {};
+tto.debug = false;
+tto.section = "news";
+tto.template = "news";
+tto.publicationUrl = "/tto/";
+tto.browser ={};
+tto.IAMServer = "https://www.timesplus.co.uk";
+tto.slideshow = {};	
+tto.slideshow.forwardFetch = 2;	
+tto.slideshow.backwardFetch = 2;	
+tto.autoPageRefresh = "900000";
+tto.isThirdParty = false;
+tto.hub = {};
+//]]>
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/tto/public/js/lib/jquery-1.8.2.min.js">\x3C/script>')</script>
+<script>
+var $ = jQuery.noConflict();
+$.ajaxSetup({ cache: true });
+</script>
+<script type="text/javascript" src="/tto/public/75265/js/tto-top-unified.js"></script>
+<preform>
+<script type="text/javascript">
+(function() {
+var url = window.location.href,
+dt = new Date(),
+isSunday = (dt.getDay() == 0),
+hasBeenRedirected = !!get_cookie('hasBeenRedirected');
+// if we are on the tto homepage
+if(/\/tto\/news\/$/gi.test(url) && isSunday && !hasBeenRedirected) {
+set_cookie('hasBeenRedirected', 'true', 18*60*60, "/" );
+window.location.href = 'http://www.thesundaytimes.co.uk/sto/?CMP=INTstp2';
+}
+})()
+</script>
+</preform>
+<style type="text/css">
+.t-slot-puff {
+width: 149px;
+height:550px;
+float: left;
+border-left:1px solid #CCCCCC;
+display:none;
+position:relative
+}
+.t-slot-puff .t-puff-foot,
+.t-slot-puff .t-browser-puff-wrap {
+padding:10px 12px 8px 12px;
+}
+.t-slot-puff h4,
+.t-slot-puff h5 {
+font-size:1.6em;
+}
+.t-slot-puff h4 {
+background:#FFF url(/tto/public/img/mini_times.png) no-repeat 0 0;
+padding-top:20px;
+margin-top:30px;
+text-transform:lowercase;
+}
+.t-slot-puff h5 {
+padding-top:10px;
+background:url(http://www.thetimes.co.uk/tto/public/img/nav-dotted.png) repeat-x scroll 0 top transparent;
+}
+.t-slot-puff p {
+margin:10px 0;
+}
+.t-slot-puff .t-puff-foot {
+font: 1em/1 bold Arial, Helvetica, sans-serif;
+position:relative;
+padding-bottom:20px;
+}
+.t-slot-puff .t-puff-foot input {
+position:absolute;
+left:0px;
+top:6px;
+}
+.t-slot-puff .t-puff-foot label {
+margin-left:20px;
+display:block;
+}
+.t-slot-puff .t-wrap-puff {
+margin-left:2px;
+background:#FFF url(/tto/public/img/browser_puff_shad.png) no-repeat top left;
+}
+.t-slot-puff .t-wrap-puff .t-puff-foot {
+position:relative;
+background:#fff url(/tto/public/img/browser_puff_shad.png) no-repeat bottom left;
+}
+.t-browser-puff-wrap {
+position:relative;
+}
+.t-browser-puff-wrap .t-close {
+cursor:pointer;
+position:absolute;
+top:12px;
+right:8px;
+text-indent:-999em;
+display:block;
+width:15px;
+height:15px;
+padding:0;
+margin:0;
+border:none;
+background:#FFF url(http://www.thetimes.co.uk/tto/public/img/background/icons/close.gif) no-repeat 2px 2px;
+}
+/*#customPuff {
+background:red;
+height:10px;
+}
+#newUserPuff {
+background:yellow;
+height:10px;
+}*/
+</style>
+<preform>
+<script type="text/javascript">
+$(document).ready(function() {
+var html = '<div class="t-slot-puff">'+
+'<div class="t-wrap-puff">'+
+'<div class="t-browser-puff-wrap">'+
+'<h4>Browser Upgrade</h4>'+
+'<button class="t-close">Close</button>'+
+'<p>You are using an older browser so some features may not be functional.</p>'+
+'<p>thetimes.co.uk is developed using the latest versions of the most popular web browsers: '+
+'<a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx">Internet Explorer</a>, '+
+'<a href="http://www.getfirefox.com/">Firefox</a>, '+
+'<a href="http://www.google.com/chrome/">Chrome</a> and '+
+'<a href="http://www.aple.com/safari/download/">Safari</a>.'+
+'</p>'+
+'<p><a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank"><b>Click here to update your browser</b></a></p>'+
+'<p><a href="http://www.thetimes.co.uk/tto/public/article2582551.ece">Need help? Ask our 24/7 support team</a></p>'+
+'<h5>What am I missing?</h5>'+
+'<p>Our new <a href="/">Dashboard</a> is not enabled in lower end browsers and you may find that some other new features are not available.</p>'+
+'</div>'+
+'<div class="t-puff-foot">'+
+'<input type="checkbox" name="t-not-again" id="t-not-again" />'+
+'<label for="t-not-again">'+
+'Do not show me this message again'+
+'</label>'+
+'</div>'+
+'</div>'+
+'</div>';
+var browserPuffCookie = tto.util.getValueFromMultiValueCookie('ttodata', 'hideBrowserPuff'),
+now = new Date(),
+validTil = new Date(browserPuffCookie);
+if(validTil <= now) {
+tto.util.setMultiValueCookieParam('ttodata', 'hideBrowserPuff', null);
+}
+/*tto.browser.matrix = {
+'msie': {
+'versions': {
+'6': {
+'os': { 'winxp': false }
+},
+'7': {
+'os': { 'winxp': true, 'winvista': true }
+},
+'8': {
+'os': { 'winxp': true, 'winvista': true, 'win7': true }
+}
+} //end versions
+}//end msie
+,
+'chrome': {
+'versions': {
+'7': {
+'os': { 'winxp': true, 'winvista': true, 'win7': true }
+}
+} //end versions
+}//end chrome
+,
+'safari': {
+'versions': {
+'4': {
+'os': { 'winxp': true, 'winvista': true, 'win7': true }
+}
+} //end versions
+}//end safari
+,
+'firefox': {
+'versions': {
+'3.6': {
+'os': { 'winxp': true }
+},
+'3.5': {
+'os': { 'winxp': true }
+}
+}//end versions
+}//end firefox
+};*/
+var isLoggedIn = !!get_cookie('at'),
+hasLoggedInBefore = !!get_cookie('iam_tgt');
+//if(!tto.browser.supported() && (!browserPuffCookie || validTil <= now)) {
+if(tto.browser.vendor == 'msie' && tto.browser.version < 7 && (!browserPuffCookie || validTil <= now)) {
+if (hasLoggedInBefore == false) {
+$('.custom-skyscraper').fadeOut();
+$('.nib').after(html);
+$('.t-slot-puff').fadeIn();
+} else {
+$('#customPuff').fadeIn();
+}
+} else {
+if (hasLoggedInBefore == false) {
+$('#newUserPuff').fadeIn();
+} else {
+$('#customPuff').fadeIn();
+}
+}
+$('.t-browser-puff-wrap .t-close').click(function(e) {
+var d = new Date();
+$('.t-slot-puff').fadeOut();
+$('.custom-skyscraper').fadeIn();
+if (hasLoggedInBefore == false) {
+//alert('2');
+$('#newUserPuff').fadeIn();
+} else {
+//alert('3');
+$('#customPuff').fadeIn();
+}
+if($('#t-not-again').attr('checked')) {
+// set the date far into the future
+tto.util.setMultiValueCookieParam('ttodata', 'hideBrowserPuff', 'December 20, ' + (d.getFullYear() + 3));
+} else {
+d.setTime(d.getTime() + 2*24*60*60*1000);
+var month = tto.util.getNameOfMonth(d.getMonth());
+tto.util.setMultiValueCookieParam('ttodata', 'hideBrowserPuff', month + ' ' + d.getDate() + ', ' + d.getFullYear());
+}
+});
+});
+</script>
+</preform>
+</head>
+<body>
+<div class="wrapper ">
+<script type="text/javascript">
+//<![CDATA[
+var name = getName();
+if (name != undefined && name != "")
+name = decodeURI(name).replace(/\+/g, " ").replace(/</g, "&#60;").replace(/>/g, "&#62;");
+//]]>
+</script>
+<script>!function(d,s,id){var st,fst=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){st=d.createElement(s);st.id=id;st.src='//acs.0x69416d.co.uk/js/toolbar-min.js';fst.parentNode.insertBefore(st,fst);}}(document,"script","acsps");</script>
+<div id="prenav" style="height:31px"></div>
+<div class="mpu" id="mpu-banner">
+<!-- -->
+</div>
+<div class="mast-head ">
+<h1 class="section-title">
+<a id="homepage-logo" href="http://www.thetimes.co.uk/tto/news/"><img width="460" height="55" alt="THE TIMES" src="/tto/public/img/the_times_460.gif" /></a>
+</h1>
+</div>
+<div id="p-nav">
+<ul id="primary" class="cf">
+<li id="news"
+class="child">
+<a href="/tto/news/"
+class="active">
+<img src="/tto/public/nav/news.gif"
+alt="News&nbsp;"/>
+</a>
+</li>
+<li id="opinion"
+class="child">
+<a href="/tto/opinion/"
+>
+<img src="/tto/public/nav/opinion.gif"
+alt="Opinion&nbsp;"/>
+</a>
+</li>
+<li id="business"
+class="child">
+<a href="/tto/business/"
+>
+<img src="/tto/public/nav/business.gif"
+alt="Business&nbsp;"/>
+</a>
+</li>
+<li id="money"
+class="child">
+<a href="/tto/money/"
+>
+<img src="/tto/public/nav/money.gif"
+alt="Money&nbsp;"/>
+</a>
+</li>
+<li id="sport"
+class="child">
+<a href="/tto/sport/"
+>
+<img src="/tto/public/nav/sport.gif"
+alt="Sport&nbsp;"/>
+</a>
+</li>
+<li id="life"
+class="child">
+<a href="/tto/life/"
+>
+<img src="/tto/public/nav/life.gif"
+alt="Life&nbsp;"/>
+</a>
+</li>
+<li id="arts"
+class="child">
+<a href="/tto/arts/"
+>
+<img src="/tto/public/nav/arts.gif"
+alt="Arts&nbsp;"/>
+</a>
+</li>
+<li id="puzzles"
+class="child">
+<a href="/tto/puzzles/"
+>
+<img src="/tto/public/nav/puzzles.gif"
+alt="Puzzles&nbsp;"/>
+</a>
+</li>
+<li id="papers"
+class="child">
+<a href="http://www.thetimes.co.uk/tto/papers.do"
+>
+<img src="/tto/public/nav/papers.gif"
+alt="Papers&nbsp;"/>
+</a>
+</li>
+</ul>
+<div class="nav-wrapper">
+<ul id="sub-prime" class="cf">
+<li class="list t-nav-item">
+<a class="pngfix" href="/tto/public/?view=list">List View</a>
+</li>
+<li class="sitemap t-nav-item">
+<a class="pngfix" href="/tto/public/?view=sitemap&amp;sType=global">Site Map</a>
+</li>
+<li class="rss t-nav-item">
+<a class="pngfix" href="/tto/newsrss/?service=rss">
+RSS Feeds
+</a>
+</li>
+</ul>
+<div id="weather-placeholder">
+</div>
+<ul id="date">
+<li></li>
+</ul>
+</div>
+<div class="p-nav-panel-wrap">
+<div class="p-nav-child pngfix cf"></div>
+<div class="p-nav-panel-shadow pngfix"></div>
+</div>
+</div>
+<div id="newsflash-ticker-placeholder"></div>
+<div class="content t-default">
+<div class="cf">
+<div class="lockup lockup-6">
+<div class="cf">
+<div class="article-1 ellipsis-outer">
+<h2 class="f-ha">
+<a href="/tto/business/economics/article3668200.ece">
+Recovery into reverse as economy dips by 0.3 per cent
+</a>
+</h2>
+<div class="byline">
+<strong class="f-author" ><a href="http://www.thetimes.co.uk/tto/public/profile/Kathryn-Hopkins" class="fg-">Kathryn Hopkins</a></strong>
+<span class="title" >Economics Correspondent </span>
+<div class="f-regular-update">
+Updated 21 minutes ago
+</div>
+</div>
+<div class="ellipsis"><p>The economy shrank by more than expected in the final three months of last 
+year, raising fears that Britain is on the verge of entering an 
+unprecedented triple-dip recession. 
+Gross Domestic Product (GDP) contracted by 0.3 per cent between October and 
+December after a 0.9 per cent rise in the previous quarter, boosted by 
+one-off factors such as the Olympic Games. 
+Analysts had been expecting a quarterly drop of 0.1 per cent, but the 
+worse-than-expected figures now mean that for 2012 as a whole the economy 
+was flat. 
+If GDP shrinks again between January and March, it would mark the third 
+technical recession, defined as two consecutive quarters of negative growth, 
+in only five years and would be the first time Britain has suffered a triple 
+dip since records began in 1955. 
+A Treasury spokesperson said: “It confirms what we already knew - that 
+Britain, like many European countries, still faces a very difficult economic 
+situation. It underlines what the Chancellor said at the Autumn Statement 
+and the Governor of the Bank of England said this week: while the economy is 
+healing, it is a difficult road.” 
+The figures raise fears that Britain could lose its prized triple-A credit 
+rating. Last month Standard &amp; Poor’s became the last of the big three 
+credit rating agencies to put the UK’s rating on “negative” watch, citing 
+concerns over the country’s weak recovery and the state of the public 
+finances. 
+Chris Williamson,</p></div>
+<ul class="relations">
+<li>
+<a href="/tto/business/davos/article3666943.ece" class="i-sm i-article-sm"><span><i></i></span>
+OECD dismisses fears
+</a>
+</li>
+<li>
+<a href="/tto/business/economics/article3629484.ece" class="i-sm i-article-sm"><span><i></i></span>
+Risky focus on GDP
+</a>
+</li>
+<li>
+<a href="/tto/business/economics/article3666624.ece" class="i-sm i-article-sm"><span><i></i></span>
+Jobs market defies trend
+</a>
+</li>
+<li class="comments">
+<a class="pngfix" href="/tto/business/economics/article3668200.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3668200"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="article-2">
+<div class="media ">
+<div class="tto-slideshow">
+<ul class="tto-slides">
+<li class="tto-slide ">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120562492_murray_377417e.jpg" alt="Andy Murray of Britain hits a return to Roger Federer of Switzerland" width="380" height="253"/>
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Murray took the first set 6-4</span>
+<span class="f-credit">Reuters</span>
+</div>
+<div class="tto-counter">1 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120562524_federer4_377416e.jpg" alt="Roger Federer of Switzerland looks on in his semifinal match against Andy Murray" width="380" height="253"/>
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Federer tries to puzzle out a way past Murray's forehand</span>
+<span class="f-credit">Getty</span>
+</div>
+<div class="tto-counter">2 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120562425_fderer3_377414e.jpg" alt="Switzerland’s Roger Federer hits a return against Britain’s Andy Murray" width="380" height="253"/>
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">The first set featured extended rallies of the highest quality</span>
+<span class="f-credit">AFP/Getty</span>
+</div>
+<div class="tto-counter">3 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Murray broke Federer's serve in the third game of the first set</span>
+<span class="f-credit">Getty</span>
+</div>
+<div class="tto-counter">4 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Federer plays a return in the first set</span>
+<span class="f-credit"></span>
+</div>
+<div class="tto-counter">5 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Federer is forced to stretch by a Murray forehand</span>
+<span class="f-credit"></span>
+</div>
+<div class="tto-counter">6 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Murray hits a return in the first set</span>
+<span class="f-credit"></span>
+</div>
+<div class="tto-counter">7 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120560983_federer_377407e.jpg" alt="Federer had no answer to Murray&#8217;s early onslaught" width="380" height="253"/>
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Federer had no answer to Murray's early onslaught</span>
+<span class="f-credit">Getty</span>
+</div>
+<div class="tto-counter">8 of 9</div>
+</div>
+</li>
+<li class="tto-slide tto-hide">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece" class="tto-slide-link">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120560818_murray_377406e.jpg" alt="The world No 3 started brightly, breaking Federer&#8217;s second service game" width="380" height="253"/>
+</a>
+<div class="frosted">
+<div class="caption">
+<span class="f-caption">Murray is aiming to reach the final for the third time in four years</span>
+<span class="f-credit">AP</span>
+</div>
+<div class="tto-counter">9 of 9</div>
+</div>
+</li>
+<script type="text/javascript">
+//<![CDATA[
+$(".tto-slideshow:last").data("datasource", {
+"0":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120562492_murray_377417e.jpg","w":"380", "h":"253","a":"Andy Murray of Britain hits a return to Roger Federer of Switzerland","d":"1"} ,
+"1":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120562524_federer4_377416e.jpg","w":"380", "h":"253","a":"Roger Federer of Switzerland looks on in his semifinal match against Andy Murray","d":"1"} ,
+"2":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120562425_fderer3_377414e.jpg","w":"380", "h":"253","a":"Switzerland’s Roger Federer hits a return against Britain’s Andy Murray","d":"1"} ,
+"3":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120560311_murray_377405e.jpg","w":"380", "h":"253","a":"Murray is aiming to reach the final for the third time in four years"} , 
+"4":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120561411_federer_377411e.jpg","w":"380", "h":"253","a":"Switzerland’s Roger Federer plays a return during his men’s singles semi-final against Britain’s Andy Murray"} , 
+"5":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120561634_FEDERE2_377412e.jpg","w":"380", "h":"253","a":"Switzerland’s Roger Federer reaches for a return to Britain’s Andy Murray"} , 
+"6":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120560437_murray_377410e.jpg","w":"380", "h":"253","a":"Britain’s Andy Murray hits a return against Switzerland’s Roger Federer"} , 
+"7":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120560983_federer_377407e.jpg","w":"380", "h":"253","a":"Federer had no answer to Murray&#8217;s early onslaught","d":"1"} ,
+"8":{"u":"http://www.thetimes.co.uk/tto/multimedia/archive/00377/120560818_murray_377406e.jpg","w":"380", "h":"253","a":"The world No 3 started brightly, breaking Federer&#8217;s second service game","d":"1"} 
+});
+//]]>
+</script>
+</ul>
+<div class="tto-slideshow-controls">
+<a href="#" class="tto-slide-prev" title="Previous"><span></span></a>
+<a href="#" class="tto-slide-next" title="Next"><span></span></a>
+</div>
+</div>
+</div>
+<h2 class="f-hb">
+<a href="http://www.thetimes.co.uk/tto/sport/tennis/article3667407.ece">
+<FONT COLOR="#B71031">Live:</FONT> Murray takes first set v Federer
+</a>
+</h2>
+</div>
+<div class="article-3 ellipsis-outer">
+<div class="hr">
+<hr/>
+</div>
+<h2 class="f-hd">
+<a href="/tto/news/world/europe/article3667847.ece">Sarkozy’s role in Aga Khan&#8217;s divorce </a>
+</h2>
+<div class="media">
+<a href="/tto/news/world/europe/article3667847.ece">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120532098_01_377287g.jpg" alt="The Aga Khan and his German-born wife Begum Gabriele" width="220"
+height="146"/>
+</a>
+</div>
+<div class="ellipsis"><p>Four years after Nicolas Sarkozy granted the Aga Khan an exemption from all 
+French taxes, the former President has intervened on behalf of the 
+billionaire religious leader in long-running divorce proceedings with his 
+German wife. 
+The Times learnt of Mr Sarkozy’s assistance to the Karim Aga Khan as 
+the Prince’s office confirmed that the highest French court has just quashed 
+a 2011 divorce ruling and € 60 million settlement for the Begum Inaara Aga 
+Khan. 
+It emerged last year that Mr Sarkozy, as President, had accorded the Aga Khan 
+the exceptional dispensation. A letter from Mr Sarkozy, leaked to the media, 
+showed that he used a rare “courtesy” power as head of state to grant the 
+favour on the ground that the twice-married Prince had based his 
+philanthropic activities in France. 
+The new decision by the Paris Cour de Cassation, based on a legal point, s</p></div>
+<div class="f-regular-update">
+Updated 33 minutes ago
+</div>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/world/europe/article3667847.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667847"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="article-4 ellipsis-outer">
+<div class="hr">
+<hr/>
+</div>
+<h2 class="f-hc">
+<a href="/tto/news/politics/article3667906.ece">Poll: voters want Britain to quit EU</a>
+</h2>
+<div class="ellipsis"><p>Britain would vote to leave the European Union if a referendum were held 
+today, a poll for The Times suggests. 
+Forty per cent of voters would leave, 37 per cent would stay and 23 per cent 
+do not know how they would vote, according to the Populus survey. That 
+translates into a 53-47 vote in favour of leaving after taking into account 
+people’s likelihood to vote and stripping the “don’t knows” from the 
+figures. 
+The finding shows the scale of David Cameron’s gamble in promising to put 
+Britain’s EU membership to the vote within five years. 
+The survey also reveals that many voters have already made up their minds, 
+regardless of the new deal that Mr Cameron is seeking to negotiate for 
+Britain. Half those who want Britain to remain in the EU, and two fifths of 
+those who want to quit, say that their vote in 2017 will have little or 
+nothing to do with the de</p></div>
+<div class="f-regular-update">
+Last updated at 8:39AM, January 25 2013
+</div>
+<ul class="relations">
+<li>
+<a href="/tto/opinion/leaders/article3667763.ece" class="i-sm i-opinion-sm"><span><i></i></span>
+German Bite	
+</a>
+</li>
+<li class="comments">
+<a class="pngfix" href="/tto/news/politics/article3667906.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667906"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="lockup-side cf lockup-side-mpu">
+<div class="nib">
+<div class="nib-inner">
+<div class="nib-image">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00014/nib_latestnews_14134a.gif" width="140" height="25" />
+</div>
+<ul>
+<li >
+<a href="http://www.thetimes.co.uk/tto/news/uk/crime/article3667813.ece">
+<strong><FONT COLOR="#B71031">Plebgate:</FONT> Hogan-Howe calls in outside force to investigate Met </strong>
+<span></span>
+</a>
+</li>
+<li >
+<a href="http://www.thetimes.co.uk/tto/news/world/europe/article3667689.ece">
+<strong><FONT COLOR="#B71031">Strauss-Kahn:</FONT> &#8216;acted as pimp&#8217; for sex parties, court told </strong>
+<span></span>
+</a>
+</li>
+<li >
+<a href="http://www.thetimes.co.uk/tto/news/politics/article3667759.ece">
+<strong><FONT COLOR="#B71031">Gay marriage:</FONT> Cameron begins new battle with his party </strong>
+<span></span>
+</a>
+</li>
+<li >
+<a href="http://www.thetimes.co.uk/tto/news/politics/article3667818.ece">
+<strong><FONT COLOR="#B71031">Housing:</FONT> evictions may soar after benefit changes take effect</strong>
+<span></span>
+</a>
+</li>
+<li >
+<a href="http://www.thetimes.co.uk/tto/news/uk/article3667772.ece">
+<strong><FONT COLOR="#B71031">Old Bailey Bomber:</FONT> secret tapes may implicate Gerry Adams </strong>
+<span></span>
+</a>
+</li>
+<li class="last" >
+<a href="http://www.thetimes.co.uk/tto/news/uk/crime/article3667430.ece">
+<strong><FONT COLOR="#B71031">‘Muslim vigilantes’:</FONT> arrests over attacks</strong>
+<span></span>
+</a>
+</li>
+</ul>
+</div><!-- END NIB INNER -->
+</div><!-- END NIB -->
+<div class="custom-skyscraper">
+<div id="customPuff">
+<div id="rightpuffblock" style="width:140px; height:3300px; overflow:hidden">
+<div id="rightpuffblockupper" style="display:none; position:relative; top:10px; left:0px; width: 140px; height:330px; overflow:hidden;" >
+<!-- 1. update the destination for the upper section -->
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3637003.ece">
+<!-- 2. update the image for the upper section -->
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/jansale_329inNEW_376121a.jpg"/>
+</a>
+</div>
+</div>
+<script type="text/javascript">
+var _rightPuffBlockLowerTimeout;
+function rightPuffBlockLowerTimeout() {
+clearInterval(_rightPuffBlockLowerTimeout);
+$('#rightpuffblocklower').animate({
+opacity: 'toggle',
+top: '0px'
+},
+400
+);
+}
+$(window).load(function(){ 
+$('#rightpuffblockupper').animate({
+opacity: 'toggle',
+top: '0px'
+}, 
+400 
+);
+_rightPuffBlockLowerTimeout = setInterval( "rightPuffBlockLowerTimeout()", 150 );
+});
+</script>
+</div>
+<div id="newUserPuff">
+<a href="http://www.thetimes.co.uk/tto/public/digital/article3637003.ece">
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/jansale_329inNEW_376121a.jpg"/></a>
+</div>
+<div id="micro-puff">
+</div>
+</div>
+<div class="mpu" id="indexmpu1">
+<!-- -->
+</div>
+</div>
+</div>
+<div class="bricks brick-mpu cf middle-ads">
+<div class="brick-sixth divider">
+<div class="title-bar bg-850029" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/opinion/columnists/article3667887.ece">Joey Barton </a>
+</h3>
+</div>
+<h4 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/opinion/columnists/article3667887.ece">Sure, slap Hazard&#8217;s wrists, but let&#8217;s not overstate it</a>
+</h4>
+<span class="img-mid"><a href="http://www.thetimes.co.uk/tto/opinion/columnists/article3667887.ece" title="Sure, slap Hazard&#8217;s wrists, but let&#8217;s not overstate it"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120471230__377063h.jpg" alt="Chelsea’s Demba Ba checks on a ball boy after he clashed with Eden Hazard " width="140" height="93" /></a></span>
+<p class="">That ballboy was no boy - and he has a few questions to answer</p>
+</div>
+<div class="brick-sixth divider">
+<div class="title-bar bg-007469" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/life/celebrity/article3667645.ece">Celebrity Watch </a>
+</h3>
+</div>
+<h5 class="f-hc"><a href="http://www.thetimes.co.uk/tto/life/celebrity/article3667645.ece">Katie Price and the psychic typo that inspired marriage</a></h5>
+<div class="bottomImage">
+<a href="http://www.thetimes.co.uk/tto/life/celebrity/article3667645.ece" title="Katie Price and the psychic typo that inspired marriage"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00208/PriceLARGE_208675o.png" alt="Katie Price " width="140" height="140" class="pngfix"/></a>
+</div>
+</div>
+<div class="brick-sixth divider">
+<div class="title-bar bg-F66200" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/sport/cycling/article3667886.ece">'He was my hero'</a>
+</h3>
+</div>
+<h4 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/sport/cycling/article3667886.ece">Wiggins: Lance Armstrong is just a lying b*****d</a>
+</h4>
+<span class="img-mid"><a href="http://www.thetimes.co.uk/tto/sport/cycling/article3667886.ece" title="Wiggins: Lance Armstrong is just a lying b*****d"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/55491961_la_377364h.jpg" alt="Lance Armstrong and Bradley Wiggins in 2009 Tour de France" width="140" height="93" /></a></span>
+<p class="">Disgraced cyclist&#8217;s claim to have been clean in 2009-10 ‘false’</p>
+</div>
+<div class="brick-sixth divider">
+<div class="title-bar bg-000000" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/opinion/leaders/article3667763.ece">Dear Germans...</a>
+</h3>
+</div>
+<h5 class="f-hc"><a href="http://www.thetimes.co.uk/tto/opinion/leaders/article3667763.ece">We&#8217;ll miss you too. Your generosity to Greeks for a start</a></h5>
+<div class="bottomImage">
+<a href="http://www.thetimes.co.uk/tto/opinion/leaders/article3667763.ece" title="We&#8217;ll miss you too. Your generosity to Greeks for a start"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/OKTOBERFEST_377404a.png" alt="" width="140" height="140" class="pngfix"/></a>
+</div>
+</div>
+<div class="brick-sixth divider">
+<div class="title-bar bg-733171" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/news/world/africa/article3667634.ece">Survivor</a>
+</h3>
+</div>
+<h4 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/news/world/africa/article3667634.ece">Kidnapped, cuffed, shelled, strafed: the luckiest man alive</a>
+</h4>
+<span class="img-mid"><a href="http://www.thetimes.co.uk/tto/news/world/africa/article3667634.ece" title="Kidnapped, cuffed, shelled, strafed: the luckiest man alive"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120513138_01_377255h.jpg" alt="Omar Goro" width="140" height="93" /></a></span>
+<p class="">When Omar Goro was taken by Mali rebels he felt he was unlucky</p>
+</div>
+<div class="brick-sixth no-margin">
+<div class="title-bar bg-2D4563" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/technology/internet/article3667738.ece">Facebook ad bad </a>
+</h3>
+</div>
+<h5 class="f-hc"><a href="http://www.thetimes.co.uk/tto/technology/internet/article3667738.ece">Site blasted for ‘exploiting’ users - including the dead</a></h5>
+<div class="bottomImage">
+<a href="http://www.thetimes.co.uk/tto/technology/internet/article3667738.ece" title="Site blasted for ‘exploiting’ users - including the dead"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00327/facebook_140x140_327213a.png" alt="" width="140" height="140" class="pngfix"/></a>
+</div>
+</div>
+</div>
+<div class="leader-wrapper">
+<div class="leader home-leader">
+<div class="primary-leader">
+<h3 class="f-nib-head">
+<a href="http://www.thetimes.co.uk/tto/opinion">Opinion</a>
+</h3>
+<div class="opinion">
+<h4 class="f-subhead-a"><a href="/tto/opinion/columnists/philipcollins/article3667764.ece">Orwell endures because his nightmares do too</a></h4>
+<strong class="f-author" ><a href="http://www.thetimes.co.uk/tto/public/profile/Philip-Collins" class="fg-">Philip Collins</a></strong>
+<span class="title" ></span>
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00038/PHILIP-COLLINS1_copy_38348w.png" width="140" height="110" alt="Philip Collins" class="author pngfix" />
+</div>
+</div>
+<div class="secondary-leader">
+<h3 class="f-nib-head">
+<a href="/tto/opinion/leaders/">Leading Articles</a>
+</h3>
+<div class="body">
+<div class="clock-outer">
+<div id="clock">
+<img src="/tto/public/img/inline/clock-flash-fallback.gif" alt="The Times" />
+</div>
+</div>
+<ul>
+<li>
+<h4 class="f-subhead-a"><a href="/tto/opinion/leaders/article3667761.ece">GI Jane</a></h4>
+<p>Women&#8217;s presence boosts the military and should be properly recognised</p>
+</li>
+<li>
+<h4 class="f-subhead-a"><a href="/tto/opinion/leaders/article3667762.ece">Miliband’s Mistake</a></h4>
+<p>Labour’s referendum position is inconsistent, wrong and a political error</p>
+</li>
+<li class="last">
+<h4 class="f-subhead-a"><a href="/tto/opinion/leaders/article3667763.ece">German Bite</a></h4>
+<p>Germany insists it would miss Britain if it left the EU. The feeling is surely mutual</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="tertiary-leader">
+<h3 class="f-nib-head">
+<a href="http://www.thetimes.co.uk/tto/opinion">Opinion</a>
+</h3>
+<div class="opinion">
+<h4 class="f-subhead-a"><a href="/tto/opinion/columnists/benmacintyre/article3667765.ece">How Kim Philby made Britain a better place</a></h4>
+<strong class="f-author" ><a href="http://www.thetimes.co.uk/tto/public/profile/Ben-Macintyre" class="fg-">Ben Macintyre</a></strong>
+<span class="title" ></span>
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00009/TTHQ10BYMACINTYRE1_9377w.png" width="140" height="110" alt="Ben Macintyre" class="author pngfix" />
+</div>
+</div>
+</div>
+</div>
+<!-- END LEADING ARTICLES -->
+<div class="bricks cf">
+<div class="brick-half cf divider">
+<div class="title-bar bg-2D4563" >
+<h3 class="f-hc">
+<a href="/tto/news/uk/defence/">UK News</a>
+</h3>
+</div>
+<div class="brick-quarter">
+<h4 class="f-hc">
+<a href="/tto/news/uk/defence/article3667882.ece">British Army on march to having women on front line</a>
+</h4>
+<p class="mg">Women in the British military likely to be allowed to serve in combat units after decision by the US to lift a ban on frontline female fighters</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/uk/defence/article3667882.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667882"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/news/uk/crime/article3667052.ece">&#8216;Police exaggeration&#8217; may be behind sharp crime fall</a>
+</h4>
+<p class="mg">A government statistician suggested that police under pressure to meet targets may have exaggerated the decrease in offences</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/uk/crime/article3667052.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667052"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="brick-quarter no-margin">
+<h4 class="f-hc">
+<a href="/tto/news/uk/" class="bg-2D4563 fat-rule">
+</a>
+<a href="/tto/news/uk/" class="fg-2D4563">
+Secrets for sale
+</a>
+</h4>
+<h5 class="f-hc"><a href="/tto/news/uk/article3667680.ece">The gadgets that paved the way for great escapes</a></h5>
+<div class="bottomImage">
+<a href="/tto/news/uk/article3667680.ece" title="The gadgets that paved the way for great escapes"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120520877_01_377243g.jpg" alt="A gallery assistant at Bonhams auction house shows a MI9 catalogue from WWII containing top secret designs for covert equipment" width="220" height="146" /></a>
+</div>
+</div>
+</div>
+<div class="brick-third divider">
+<div id="classified-search" class="tabs">
+<h3>Find</h3>
+<!-- Debug -->
+<!-- Headline: Jobs Teaser: URL: http://jobs.thetimes.co.uk -->
+<!-- Debug -->
+<!-- Headline: Motors Teaser: URL: http://carlocator.thetimes.co.uk -->
+<!-- Debug -->
+<!-- Headline: Property Teaser: URL: http://timesonline.globrix.com/property/ -->
+<!-- Debug -->
+<!-- Headline: Holidays Teaser: URL: http://traveldirectory.thetimes.co.uk/classifieds_travel_search.aspx -->
+<ul class="search-links cf">
+<li class="ui-tabs-selected"><a href="#jobstab">Jobs</a></li>
+<li class=""><a href="#carstab">Motors</a></li>
+<li class=""><a href="#propertytab">Property</a></li>
+<li class=""><a href="#holidaytab" class="last">Holidays</a></li>
+</ul>
+<div class="tabs-wrapper">
+<div id="jobstab">
+<form action="http://jobs.thetimes.co.uk/searchjobs/" method="get" id="jobs-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="job-search-box" class="offscreen">Search all Jobs</label>
+<input type="text" id="job-search-box" name="keywords" class="keywords input-lg" title="Search all Jobs" maxlength="50" />
+<button type="submit" class="search" >Search</button>
+</fieldset>
+</form>
+<ul class="panel panel-jobs cf">
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;267357444;48914313;o?http://jobs.thetimes.co.uk/job/427620/interpreter-careers">Interpreter Careers</a></h4>
+<p>United Nations - England - Salary - Competitive</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;267357691;48914313;s?http://jobs.thetimes.co.uk/job/427248/raf-barristers-and-solicitors">RAF Barristers and Solicitors</a></h4>
+<p>Royal Air Force (RAF) - Worldwide - £37,915 (after training)</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;267357772;48914313;s?http://jobs.thetimes.co.uk/job/427721/principal-chief-executive">Principal/Chief Executive</a></h4>
+<p>Aylesbury College - England - Salary C.£110k</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;267357811;48914313;m?http://jobs.thetimes.co.uk/job/427193/exciting-policy-and-administrative-opportunities-in-the-cabinet-office">Policy and Administrative opportunities</a></h4>
+<p>Cabinet Office - London - Salary - Competitive</p>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://jobs.thetimes.co.uk" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="ui-tabs-hide" id="carstab">
+<form action="http://carlocator.thetimes.co.uk/classifieds_motors_search.aspx" method="get" id="cars-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="cars-search-box" class="offscreen">Search all Cars</label>
+<input type="text" id="cars-search-box" name="keywords" class="keywords input-lg" title="Search all Cars" maxlength="50" />
+<button type="submit" class="search">Search</button>
+</fieldset>
+</form>
+<ul class="panel panel-cars cf">
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;227223380;47454758;m?http://carleasingmadesimple.com">Car Leasing</a></h4>
+<p>The clever way to lease a new car is with Car Leasing made simple.</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;256303941;48914313;f?http://www.tomhartley.com/usedcar/McLAREN/MP4-12C/Midlands-Derbyshire/18108488">2012 Mclaren</a></h4>
+<p> McLAREN MP4-12C - POA - Derbyshire </p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;225048472;48362746;n?http://www.bewiser.co.uk/Car/The Times?referrer=timeso">Be Wiser Insurance</a></h4>
+<p>Car Insurance</p><p>The best policy at the best price</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;256304443;48914313;d?http://www.tomhartley.com/usedcar/FERRARI/458_Italia/Midlands-Derbyshire/16182386">FERRARI 458 Italia </a></h4>
+<p>FERRARI 458 Italia - POA - Derbyshire - 2012</p>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://carlocator.thetimes.co.uk" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="ui-tabs-hide" id="propertytab">
+<form action="http://thetimes.zoopla.co.uk/search/" method="get" id="property-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="property-search-box" class="offscreen">Enter place or area</label>
+<input type="text" id="property-search-box" name="q" class="keywords input-lg" title="Enter place or area" maxlength="50" />
+<input type="image" src="/tto/public/img/classifieds/search.gif" class="search" name="search" alt="[Search]" value="Search" />
+<input type="hidden" id="property-search-action" value="http://thetimes.zoopla.co.uk/search/" />
+<input type="hidden" id="property-search-action-default" value="http://thetimes.zoopla.co.uk/" />
+</fieldset>
+<fieldset class="zoopla">
+<input type="radio" id="for-sale" name="section" value="for-sale" checked="checked" /><label for="for-sale">For sale</label>
+<input type="radio" id="for-rent" name="section" value="to-rent" /><label for="for-rent">For rent</label>
+</fieldset> 
+</form>
+<ul class="panel panel-property cf">
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;266406087;48914313;l?http://www.skipropertysaintefoy.com/">Second chance in Sainte-Foy</a></h4>
+<p>New ski apartments within highly successful ski development in beautiful Sainte-Foy</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;256821986;48914313;t?http://www.fineandcountry.co.uk/index.php?option=com_customcontact&amp;view=valuationrequest&amp;Itemid=35">Click here for a free valuation with Fine &amp; Country </a></h4>
+<p>Award-winning estate agents specialised in luxury property in over 300 locations worldwide.</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;255521066;48914313;e?http://www.savills.co.uk/iphone-app/savills-iphone-app.aspx">Click here to download the Savills app </a></h4>
+<p>Just search Savills, with an award winning website, &amp; 80 offices across the UK.</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;259278455;48914313;t?http://www.riversidequarter.com">Apartments for sale</a></h4>
+<p>Apartments for sale beside the Thames overlooking Fulham&#8217;s famous Hurlingham Club &amp; fashionable Chelsea. From £555K</p>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://timesonline.globrix.com/property/" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="ui-tabs-hide" id="holidaytab">
+<form action="http://traveldirectory.thetimes.co.uk/classifieds_travel_search.aspx" method="get" id="travel-classified-search" target="_blank">
+<fieldset class="cf">
+<legend>Search Form</legend>
+<label for="travel-search-box" class="offscreen">Search all Holidays</label>
+<input type="text" id="travel-search-box" name="keywords" class="keywords input-lg" title="Search all Holidays" maxlength="50" />
+<button type="submit" class="search">Search</button>
+</fieldset>
+</form>
+<ul class="panel panel-travel cf">
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;266977559;48914313;c?http://www.scenictours.co.uk/tour/jewels-of-europe-stc.1-1314/?_$ja=tsid:46684">Jewels of Europe River Cruise</a></h4>
+<p>15 day all-inclusive river cruise from Amsterdam to Budapest, now from £2,195 per person</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;264549214;48914313;j?http://www.hayesandjarvis.co.uk/destinations/Mauritius">Exclusive 5*7nts Mauritius £1095pp</a></h4>
+<p>AMAZING 2013 Offer - stay at the LUX Grand Gaube HB incl. flights &amp; transfers &amp; €200 credit!</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;267657684;48914313;x?http://www.kasbahtamadot.virgin.com/en/kasbah_tamadot/prices/tempting_offers">Morocco free night offer</a></h4>
+<p>Stay at Kasbah Tamadot for 4 nights of more and get your final night free!</p>
+</li>
+<li>
+<h4><a href="http://ad.doubleclick.net/clk;263894153;48914313;n?http://www.crystalski.co.uk/Horizon/">Nevada Ski Holidays Fr £739pp</a></h4>
+<p>7 nights Horizon Casino Resort, incl flights United Airlines, 4 sharing, RO 16 Jan</p><br/>
+</li>
+<li class="more selected">
+<ul>
+<li><a href="http://traveldirectory.thetimes.co.uk/classifieds_travel_search.aspx" target="_blank"></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="brick-sixth no-margin">
+<div class="tto-slideshow tto-sponsored-element tto-sponsored-element-narrow tto-slideshow-speed-5000">
+<h3 class="tto-slideshow-title">Sponsored Editorial</h3>
+<div class="tto-slides">
+<div class="tto-slide">
+<h4 class="editorial-title"><a
+href="http://ad.doubleclick.net/clk;266249415;48111976;p?http://www.thetimes.co.uk/tto/public/carrier/article3650032.ece">Carrier</a></h4>
+<h4 class="editorial-headline"><a
+href="http://ad.doubleclick.net/clk;266249415;48111976;p?http://www.thetimes.co.uk/tto/public/carrier/article3650032.ece">Luxury travel</a></h4>
+<a href="http://ad.doubleclick.net/clk;266249415;48111976;p?http://www.thetimes.co.uk/tto/public/carrier/article3650032.ece"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00373/140carrier_373085a.jpg" alt="" width="140"
+height="93" />
+</a>
+<p>Find out about 2013&#8217;s six big travel trends and enter a competition to win a holiday</p>
+</div>
+<div class="tto-slide">
+<h4 class="editorial-title"><a
+href="http://ad.doubleclick.net/clk;267223012;21419423;q?http://www.thetimes.co.uk/tto/public/rafreserves/article3648311.ece">RAF Reserves</a></h4>
+<h4 class="editorial-headline"><a
+href="http://ad.doubleclick.net/clk;267223012;21419423;q?http://www.thetimes.co.uk/tto/public/rafreserves/article3648311.ece">Test your mettle</a></h4>
+<a href="http://ad.doubleclick.net/clk;267223012;21419423;q?http://www.thetimes.co.uk/tto/public/rafreserves/article3648311.ece"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00372/_SOILDER_371688h_372994a.jpg" alt="" width="140"
+height="93" />
+</a>
+<p>Try our online tests and find the right role for you, from Photographer to Intelligence Officer</p>
+</div>
+<div class="tto-slide">
+<h4 class="editorial-title"><a
+href="http://ad.doubleclick.net/clk;263714903;48111976;l?http://www.thetimes.co.uk/tto/public/yourworld/">Bales Worldwide</a></h4>
+<h4 class="editorial-headline"><a
+href="http://ad.doubleclick.net/clk;263714903;48111976;l?http://www.thetimes.co.uk/tto/public/yourworld/">India shows its stripes</a></h4>
+<a href="http://ad.doubleclick.net/clk;263714903;48111976;l?http://www.thetimes.co.uk/tto/public/yourworld/"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00373/140bales_373705a.jpg" alt="" width="140"
+height="93" />
+</a>
+<p>Explore the world&#8217;s most exciting holiday spots and win a holiday to Laos</p>
+</div>
+<div class="tto-slide">
+<h4 class="editorial-title"><a
+href="http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece">City Business</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece">Advertisement feature</a></h4>
+<a href="http://www.thetimes.co.uk/tto/public/citybusiness/article2579379.ece"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00089/BCG-top-image_30409h_89037a.jpg" alt="" width="140"
+height="93" />
+</a>
+<p>Thinking of setting up a business abroad? Don’t go anywhere without consulting this guide</p>
+</div>
+<div class="tto-slide">
+<h4 class="editorial-title"><a
+href="http://www.timesnorth.co.uk">North of England</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.timesnorth.co.uk">The Times Business Insight</a></h4>
+<a href="http://www.timesnorth.co.uk"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00361/Front-Page-29th-Nov_361932a.jpg" alt="" width="140"
+height="93" />
+</a>
+<p>Stan Laurel country is wide open ...for business </p>
+</div>
+<div class="tto-slide">
+<h4 class="editorial-title"><a
+href="http://www.times-scotland.co.uk/">Scotland</a></h4>
+<h4 class="editorial-headline"><a
+href="http://www.times-scotland.co.uk/">Surfing health</a></h4>
+<a href="http://www.times-scotland.co.uk/"> 
+<img src="http://www.thetimes.co.uk/tto/multimedia/archive/00339/timesnorth_339721a.jpg" alt="" width="140"
+height="93" />
+</a>
+<p>The drive to digital health in the Highlands and Islands</p>
+</div>
+</div>
+<div class="tto-slideshow-controls">
+<a class="tto-slide-prev" href="#" title="Left"><span></span></a>
+<a class="tto-slide-next" href="#" title="Right"><span></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="bricks cf">
+<div class="brick-half cf">
+<div class="title-bar bg-2D4563" >
+<h3 class="f-hc">
+<a href="/tto/news/uk/">More UK News</a>
+</h3>
+</div>
+<div class="brick-quarter">
+<h4 class="f-hc">
+<a href="/tto/education/article3667814.ece">Free schools to be able to slice through red tape</a>
+</h4>
+<p class="mg">Free schools will be able to open in offices, hotels and warehouses without planning permission under changes to be announced</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/education/article3667814.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667814"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/news/politics/article3667759.ece">Fight begins over &#8216;toxic&#8217; gay marriage Bill</a>
+</h4>
+<p class="mg">David Cameron facing a struggle to persuade more than half of Tory MPs into supporting gay marriage in the most divisive vote of his leadership</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/politics/article3667759.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667759"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="brick-quarter no-margin">
+<h4 class="f-hc">
+<a href="/tto/news/uk/crime/article3667687.ece">Hackers jailed over £3.5m cyber attack</a>
+</h4>
+<p class="mg">Christopher Weatherhead, 22, and Ashley Rhodes, 28, were both found guilty of conspiring to impair operation of computers</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/uk/crime/article3667687.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667687"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/news/world/europe/article3667647.ece">Auschwitz suitcases confirm fate of parents</a>
+</h4>
+<p class="mg">A visitor to the Polish death camp has ended Harry and Hannah Grenville&#8217;s long search to discover the fate of their parents</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/world/europe/article3667647.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667647"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="brick-half no-margin cf">
+<div class="title-bar bg-666655" >
+<h3 class="f-hc">
+<a href="/tto/news/world/">World News</a>
+</h3>
+</div>
+<div class="brick-quarter">
+<h4 class="f-hc">
+<a href="/tto/news/world/africa/article3667758.ece">Cracks begin to show in Mali Islamists’ alliance</a>
+</h4>
+<span class="img-mid"><a href="/tto/news/world/africa/article3667758.ece" title="Cracks begin to show in Mali Islamists’ alliance"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120534557_377310g.jpg" alt="Islamists rebels of Ansar Dine near Timbuktu" width="220" height="146" /></a></span>
+<p class="">The militant alliance controlling northern Mali was showing signs of splitting apart yesterday as France stepped up its aerial assault</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/world/africa/article3667758.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667758"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="brick-quarter no-margin">
+<h4 class="f-hc">
+<a href="/tto/news/world/americas/article3668142.ece">Facebook boss to host political fundraiser</a>
+</h4>
+<p class="mg">Mark Zuckerberg will make a foray into politics next month by hosting a fundraiser for New Jersey&#8217;s Republican Governor</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/world/americas/article3668142.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3668142"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/news/world/europe/article3667689.ece">Strauss-Kahn acted as pimp for sex parties, court told</a>
+</h4>
+<p class="mg">Dominique Strauss-Kahn was questioned following the publication of a legal document alleging that he effectively acted as a pimp</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/news/world/europe/article3667689.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667689"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="bricks cf">
+<div class="brick-half cf">
+<div class="title-bar bg-112244" >
+<h3 class="f-hc">
+<a href="/tto/business">Business</a>
+</h3>
+</div>
+<div class="brick-quarter">
+<h4 class="f-hc">
+<a href="/tto/business/industries/banking/article3668185.ece">OFT orders banks to put customers first</a>
+</h4>
+<p class="mg">Watchdog finds that consumers still find it difficult to determine which current account offers the best deal and lack confidence about switching</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/banking/article3668185.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3668185"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/business/industries/utilities/article3667846.ece">Workers left in the cold after British Gas pulls green plan</a>
+</h4>
+<p class="mg">Britain’s biggest energy supplier has decided to stop insulating homes free of charge, leaving the insulation industry nursing hefty losses</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/utilities/article3667846.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667846"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="brick-quarter no-margin">
+<h4 class="f-hc">
+<a href="/tto/business/industries/technology/article3668180.ece">Galaxy sends Samsung profits soaring 76%</a>
+</h4>
+<p class="mg">The South Korean electronics giant said operating profit from the Galaxy range of smartphones had more than doubled</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/technology/article3668180.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3668180"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/business/industries/technology/article3668103.ece">Microsoft knocked off its stride by falling profits</a>
+</h4>
+<p class="mg">Disappointing sales of the Windows 8 operating system were compounded last night as the technology company reported a drop in profits</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/business/industries/technology/article3668103.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3668103"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="brick-half no-margin cf">
+<div class="title-bar bg-0e6100" >
+<h3 class="f-hc">
+<a href="/tto/sport/">Sport</a>
+</h3>
+</div>
+<div class="brick-quarter">
+<h4 class="f-hc">
+<a href="/tto/sport/football/clubs/manchestercity/article3667854.ece">Begiristain wields power over Mancini on team shape</a>
+</h4>
+<span class="img-mid"><a href="/tto/sport/football/clubs/manchestercity/article3667854.ece" title="Begiristain wields power over Mancini on team shape"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/120515411_txiki_377340g.jpg" alt="Txiki Begiristain" width="220" height="146" /></a></span>
+<p class=""><b>Exclusive:</b> Roberto Mancini seems at mercy of club’s hierarchy with director of football insisting on players fitting Barca-style system</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/sport/football/clubs/manchestercity/article3667854.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667854"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="brick-quarter no-margin">
+<h4 class="f-hc">
+<a href="/tto/sport/olympics/article3667904.ece">Coe racing to build an Olympic legacy</a>
+</h4>
+<p class="mg">Six months on from the Olympic Games, Ashling O’Connor discovers that the chief organiser of London 2012 has unfinished business</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/sport/olympics/article3667904.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667904"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+<h4 class="f-hc">
+<a href="/tto/sport/rugbyunion/article3667947.ece">Ashton backs himself to be a force in Six Nations</a>
+</h4>
+<p class="mg">The wing participated fully in an England training session yesterday, having protected a slight hamstring strain earlier in the week</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/sport/rugbyunion/article3667947.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3667947"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="bricks cf brick-arts">
+<div class="brick-full no-margin">
+<div class="title-bar bg-2d4563">
+<h3 class="f-hc">
+<a href="/tto/news/">Video</a>
+</h3>
+</div>
+<div class="brick-sixth">
+<span class="img-top"><a href="http://www.thetimes.co.uk/tto/environment/wildlife/article3664929.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/tiger_120147788_376562h.jpg" width="140" height="93" alt="A tiger with a snowman at Longleat" title="A tiger with a snowman at Longleat"/></a></span>
+<h4 class="f-hc"><a href="http://www.thetimes.co.uk/tto/environment/wildlife/article3664929.ece" title=""><FONT COLOR="#B71031">Tigers! Snow!</FONT><br>Creatures demolish two snowmen</br></a></h4>
+<p class="mg">See what it would look like to be eaten by a tiger</p>
+</div>	
+<div class="brick-sixth">
+<span class="img-top"><a href="http://www.thetimes.co.uk/tto/news/politics/article3666625.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/120417652_Letters_376842h.jpg" width="140" height="93" alt="David Cameron believes it is time to push for a flexible, less bureaucratic EU" title="David Cameron believes it is time to push for a flexible, less bureaucratic EU"/></a></span>
+<h4 class="f-hc"><a href="http://www.thetimes.co.uk/tto/news/politics/article3666625.ece" title=""><FONT COLOR="#B71031">In or out?</FONT><br>David Cameron rolls the dice</br></a></h4>
+<p class="mg">Watch Phil Webster’s analysis and our focus group’s reaction</p>
+</div>	
+<div class="brick-sixth">
+<span class="img-top"><a href="http://www.thetimes.co.uk/tto/opinion/article3667217.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/morten_377174h.jpg" width="139" height="93" alt="" title=""/></a></span>
+<h4 class="f-hc"><a href="http://www.thetimes.co.uk/tto/opinion/article3667217.ece" title=""><FONT COLOR="#B71031">Morten Morland</FONT><br>The PM&#8217;s big moment</br></a></h4>
+<p class="mg">Our cartoonist’s take on the speech Dave didn&#8217;t want to give</p>
+</div>	
+<div class="brick-sixth">
+<span class="img-top"><a href="http://www.thetimes.co.uk/tto/news/world/europe/article3666043.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/baby_crash_lg_376772h.jpg" width="140" height="93" alt="Car crash baby’s lucky escape" title="Car crash baby’s lucky escape"/></a></span>
+<h4 class="f-hc"><a href="http://www.thetimes.co.uk/tto/news/world/europe/article3666043.ece" title=""><FONT COLOR="#B71031">Miracle escape</FONT><br>Baby hurled from car</br></a></h4>
+<p class="mg">Watch the moment a one-year-old somehow escaped unharmed</p>
+</div>	
+<div class="brick-sixth">
+<span class="img-top"><a href="http://www.thetimes.co.uk/tto/arts/film/article3660596.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00375/119852205__375326h.jpg" width="140" height="93" alt="Django Unchained" title="Django Unchained"/></a></span>
+<h4 class="f-hc"><a href="http://www.thetimes.co.uk/tto/arts/film/article3660596.ece" title=""><FONT COLOR="#B71031">Times Film Show</FONT><br>What’s big on the big screen</br></a></h4>
+<p class="mg">Our film critics on Django Unchained and The Sessions</p>
+</div>	
+<div class="brick-sixth no-margin">
+<span class="img-top"><a href="http://www.thetimes.co.uk/tto/sport/cycling/article3662476.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00375/NM410901_a_375529h.jpg" width="140" height="93" alt="Lance Armstrong with his son, Luke" title="Lance Armstrong with his son, Luke"/></a></span>
+<h4 class="f-hc"><a href="http://www.thetimes.co.uk/tto/sport/cycling/article3662476.ece" title=""><FONT COLOR="#B71031">Lance Armstrong</FONT><br>What made him come clean</br></a></h4>
+<p class="mg">Shamed cyclist&#8217;s son, 13, prompted doping confession</p>
+</div>	
+</div>	
+</div>
+<div class="bricks cf">
+<div class="title-bar bg-BB1A00" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/arts/">Arts</a>
+</h3>	
+</div>
+<div class="brick-sixth">
+<div class="element ">
+<span class="img-top">
+<a href="/tto/arts/film/reviews/article3667513.ece" title="Jessica Chastain, as Maya"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/jesslarge_377144w.png" alt="Jessica Chastain, as Maya" width="140" height="110" class="pngfix"/></a>
+</span>
+<h4 class="f-hc">
+<a href="/tto/arts/film/reviews/" class="bg-BB1A00 fat-rule">
+</a>
+<a href="/tto/arts/film/reviews/" class="fg-BB1A00">
+Film Reviews
+</a>
+</h4>
+<h5 class="f-hc"><a href="/tto/arts/film/reviews/article3667513.ece">A taut account of the bin Laden hunt — or vindication of torture?</a></h5>
+</div>
+</div>
+<div class="brick-half">
+<div class="element viewer">
+<a href="http://www.thetimes.co.uk/tto/arts/film/reviews/article3667405.ece" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00377/abe_brick_377217d.jpg" alt="" width="460" height="258" /></a>
+</div>
+</div>
+<div class="brick-sixth no-margin">
+<div class="element ">
+<h4 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/arts/music/classical/article3667117.ece" class="bg-BB1A00 fat-rule">
+</a>
+<a href="http://www.thetimes.co.uk/tto/arts/music/classical/article3667117.ece" class="fg-BB1A00">
+Richard Morrison
+</a>
+</h4>
+<h5 class="f-hc"><a href="/tto/arts/music/classical/article3667117.ece">Be careful about shouting &#8216;encore&#8217; at a Hilary Hahn recital...</a></h5>
+<div class="bottomImage">
+<a href="/tto/arts/music/classical/article3667117.ece" title="Be careful about shouting &#8216;encore&#8217; at a Hilary Hahn recital..."><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00009/65948629_morrison_9467w.png" alt="Richard Morrison" width="140" height="110" class="pngfix"/></a>
+</div>
+</div>
+</div>
+<div class="special-divider">
+</div>
+<div class="brick-sixth no-margin">
+<div class="element ">
+<h3 class="f-hc"><a href="/tto/arts/music/albumreviews/article3667475.ece">Album of the week: Fleetwood Mac: Rumours</a></h3>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class="subElement ">
+<h3 class="f-hc"><a href="/tto/arts/stage/theatre/article3667302.ece">First Night review: Di and Viv and Rose</a></h3>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class="subElement ">
+<h3 class="f-hc"><a href="/tto/arts/tv-radio/reviews/article3667576.ece">Last Night&#8217;s TV: The Genius of Invention</a></h3>
+</div>
+</div>
+</div>
+<div class="bricks cf">
+<div class="brick-half cf">
+<div class="title-bar bg-2D4563" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/public/blogs/">Best of the Blogs</a>
+</h3>
+</div>
+<div class="brick-quarter">
+<div class=" element ">
+<h4 class="f-hc">
+<a href="http://blogs.thetimes.co.uk/section/charles-bremner/96677/cameron-plays-eu-roulette/">Charles Bremner | Why David Cameron is playing EU roulette</a>
+</h4>
+<p class="mg">A shadow of uncertainty will cloud Britain’s business in the EU for years, says our Europe Editor. The PM&#8217;s policy is an historic gamble</p>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class=" element ">
+<h4 class="f-hc">
+<a href="http://blogs.thetimes.co.uk/section/school-gate/96755/a-success-story-for-londons-schools/">School Gate | The secret of London’s exam success</a>
+</h4>
+<p class="mg">Schools in the capital are performing very well, contrary to what some people might expect or believe... this is why</p>
+</div>
+</div>
+<div class="brick-quarter no-margin">
+<div class=" element ">
+<h4 class="f-hc">
+<a href="http://blogs.thetimes.co.uk/section/the-game/96768/sacre-bleu-jimmy-kebe-wrongfoots-journps-with-fake-transfer/">the game | Footballer winds up journos with fake transfer</a>
+</h4>
+<p class="mg">Reading&#8217;s Jimmy Kebe tweeted: &#8216;On my way to Newcastle, having medical then sign a 4 years contract.&#8217; Except he wasn&#8217;t</p>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class=" element ">
+<h4 class="f-hc">
+<a href="http://blogs.thetimes.co.uk/section/film-spy/96661/white-house-under-attack-twice/">Film Spy | The White House is under attack! Twice!</a>
+</h4>
+<p class="mg">Our writer can’t quite get his head around the fact that two movies with near-identical narratives could be released the same year</p>
+</div>
+</div>
+</div>
+<div class="brick-half no-margin cf">
+<div class="title-bar bg-733171" >
+<h3 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/life/property/">Property </a>
+</h3>
+</div>
+<div class="brick-quarter">
+<div class=" element ">
+<h4 class="f-hc">
+<a href="/tto/life/property/article3666397.ece">Wood stoves: cosy, hot . . . and green</a>
+</h4>
+<span class="img-mid"><a href="/tto/life/property/article3666397.ece" title="Wood stoves: cosy, hot . . . and green"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/118775349_stuart-sm_376799g.jpg" alt="Jennifer Stuart-Smith" width="220" height="146" /></a></span>
+<p class="">Far from being outdated, a wood stove is a highly efficient, sustainable source of heat</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/life/property/article3666397.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3666397"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="brick-quarter no-margin">
+<div class=" element ">
+<h4 class="f-hc">
+<a href="/tto/life/property/article3666904.ece">Is clutter making you hate your home?</a>
+</h4>
+<p class="mg">Let the experts help you to declutter you home. A clear out could let you fall in love with it all over again</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/life/property/article3666904.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3666904"></span>
+</a>
+</li>
+</ul>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class=" element ">
+<h4 class="f-hc">
+<a href="/tto/life/property/article3666932.ece">Estate agents’ secrets: what you should know</a>
+</h4>
+<p class="mg">The process of house buying can be fraught but case law is starting to clarify what your agent must reveal</p>
+<ul class="relations">
+<li class="comments">
+<a class="pngfix" href="/tto/life/property/article3666932.ece#commentsStart">
+<span class="articleComments" data-article-id="tto3666932"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="bricks cf">
+<div class="title-bar bg-000000" >
+<h3 class="f-hc">
+<a href="/tto/public/digital/">Times+ Offers</a>
+</h3>	
+</div>
+<div class="brick-sixth">
+<div class="element ">
+<span class="img-top">
+<a href="/tto/public/digital/article3664907.ece" title="Odeon cinema"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/OdeonImage_376334h.jpg" alt="Odeon cinema" width="140" height="93" /></a>
+</span>
+<h4 class="f-hc">
+<a href="/tto/public/digital/" class="bg-000000 fat-rule">
+</a>
+<a href="/tto/public/digital/" class="fg-000000">
+Times+ Offers
+</a>
+</h4>
+<h5 class="f-hc"><a href="/tto/public/digital/article3664907.ece">Two-for-one tickets at ODEON Cinemas</a></h5>
+</div>
+</div>
+<div class="brick-half">
+<div class="element viewer">
+<a href="http://timesbooks.tbpcontrol.co.uk/tbp.direct/customeraccesscontrol/Home.aspx?collection=10278921" title=""><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00376/pbrookes_brick_376307d.jpg" alt="" width="460" height="306" /></a>
+</div>
+</div>
+<div class="brick-sixth no-margin">
+<div class="element ">
+<h4 class="f-hc">
+<a href="/tto/public/digital/" class="bg-000000 fat-rule">
+</a>
+<a href="/tto/public/digital/" class="fg-000000">
+Times Traveller
+</a>
+</h4>
+<h5 class="f-hc"><a href="/tto/public/digital/article3647918.ece">Lake Como, St Moritz &amp; the Bernina Express: from only £749 pp</a></h5>
+<div class="bottomImage">
+<a href="/tto/public/digital/article3647918.ece" title="Lake Como, St Moritz &amp; the Bernina Express: from only £749 pp"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00370/Lakecomo_370642h.jpg" alt="" width="140" height="93" /></a>
+</div>
+</div>
+</div>
+<div class="special-divider">
+</div>
+<div class="brick-sixth no-margin">
+<div class="element ">
+<h3 class="f-hc"><a href="/tto/public/traveller/article3650254.ece">Pompeii, Capri &amp; the Bay of Naples</a></h3>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class="subElement ">
+<h3 class="f-hc"><a href="/tto/public/traveller/article3663785.ece">Europe&#8217;s finest river and tall ship cruises</a></h3>
+<div class="hr">
+<hr/>
+</div>
+</div>
+<div class="subElement ">
+<h3 class="f-hc"><a href="/tto/public/traveloffers/article3651287.ece">Classical Spain: seven days from only £499pp.</a></h3>
+</div>
+</div>
+</div>
+<div class="bricks brick-mpu cf middle-ads footer-brick">
+<script id="mostReadItem-Tpl" type="text/template">
+<div class="topArticles {{type}}" style="opacity:{{opacity}}">
+<ol>
+{{#items}}
+<li>
+<div class="mostReadItemWrapper mostReadItemWrapper-{{position}}">
+<div class="mostReadItem">
+<div class="mostReadItemPosition mostReadItemPosition-{{position}}">
+</div>
+</div>
+<div class="mostReadItemBody ellipses">
+<a href="{{link}}" class="ellipses-inner">{{{title}}}</a>
+</div>
+</div>
+</li>
+{{/items}}
+</ol>
+</div>
+</script>
+<span class="title-bar"></span>
+<div class="brick-third divider">
+<div class="topArticlesContainer">
+<ul class="links cf">
+<li class="first">
+<div>
+<a href="#most-read" class="mostReadLink active">Most Read</a>
+</div>
+</li>
+<li>
+<div>
+<a href="#trending-articles" class="trendingArticlesLink">Most Active</a>
+</div>
+</li>
+</ul>
+</div>
+<script src="http://live.feed.thetimes.co.uk/thetimes.co.uk/ttoMostRead.jsonp"></script> 
+</div>
+<div class="brick-sixth divider">
+<div class="element">
+<div class="brick-sixth divider">
+<div class="f-hc"> <a class="bg-112244 fat-rule" href="http://www.facebook.com/timesandsundaytimes" target="_blank"> </a> <a class="fg-112244" href="http://www.facebook.com/timesandsundaytimes"></a> </div>
+<div class="f-hc"><a href="http://www.facebook.com/timesandsundaytimes" target="_blank"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00105/facebook-2_105831a.gif"></img></a>
+<a href="http://www.thetimes.co.uk/tto/public/article3038768.ece" target="_blank"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00105/twitter-2_105832a.gif"></img></a></div>
+</div>
+</div>
+</div>
+<div class="brick-sixth divider color-override">
+<div class="element ">
+<h4 class="f-hc">
+<a href="http://www.thetimes.co.uk/tto/public/times-ipad/article3615541.ece" class="bg-2D4563 fat-rule">
+</a>
+<a href="http://www.thetimes.co.uk/tto/public/times-ipad/article3615541.ece" class="fg-2D4563">
+Nexus 7 for £50
+</a>
+</h4>
+<h5 class="f-hc"><a href="http://www.thetimes.co.uk/tto/public/times-ipad/article3615541.ece">Award-winning Nexus 7 from Google for just £50</a></h5>
+<div class="bottomImage">
+<a href="http://www.thetimes.co.uk/tto/public/times-ipad/article3615541.ece" title="Award-winning Nexus 7 from Google for just £50"><img src="http://www.thetimes.co.uk/tto/multimedia/archive/00365/Nexus_Times_screen__365363h.jpg" alt="Nexus_Times screen" width="140" height="140" /></a>
+</div>
+</div>
+</div>
+<div class="brick-third no-margin">
+<div class="mpu" id="mpu-bottommpu">
+<!-- -->
+</div>
+</div>
+</div>
+</div><!-- END CONTENT -->
+<!--FOOTER-->
+<!--fix for sharing on teaser articles-->
+<script>
+$('.share-widget p').text('In order to read the full article, visitors must subscribe to thetimes.co.uk');
+</script>
+<!--comment outage message starts
+<style>
+p.comment-comms {
+font-size:14px; 
+font-family:arial;
+padding-bottom:4px;
+padding-top:4px;
+margin-bottom:10px;
+color:#ffffff !important;
+background-color:#850029;
+padding-left:5px;}
+p.comment-comms a {
+color:#fff000 !important;
+background-color:#850029;
+}
+div.bricks.brick-mpu.cf.middle-ads.footer-brick {height:300px !important;}
+</style>
+<script>
+$('div.bricks.brick-mpu.cf.middle-ads.footer-brick span.title-bar').after('<p class="comment-comms"><a href="http://thetimes.co.uk/tto/public/digital/article3602335.ece">Please click here to read an update on the new comments system</a>, including the opportunity to register to test new features</p>');
+</script>
+comments outage message ends-->
+<div id="footer" class="cf">
+<div class="address">
+<div><span class="build-version">© Times Newspapers Limited 2013 | Version 4.3.0.27(75265)</span></div>
+<span>Registered in England No. 894646 Registered office:<address> 3 Thomas More Square, London, E98 1XY </address>
+</span>
+</div>
+<div class="links" style="margin-bottom:125px">
+<a href="https://acs.thetimes.co.uk/user/verifyPassword">My Account</a> |
+<a href="http://www.thetimes.co.uk/tto/feedindex/ ">RSS</a> | 
+<a href="https://niadsdirect.com/advertising/viewHome.do">Classified advertising</a> |
+<a href="http://www.nicommercial.com/">Display advertising</a> | 
+<a href="http://www.timeswhiskyclub.com/">The Times Whisky Club</a>
+<div>
+<a href="http://www.nidp.com/">Privacy &amp; Cookie Policy</a> | 
+<a href="http://www.nisyndication.com/">Syndication</a> |
+<a href="http://www.thetimes.co.uk/tto/public/?view=sitemap&amp;section=News">Site Map</a> | 
+<a href="http://www.timesplus.co.uk/welcome/tp_faq_pg.htm">FAQ</a> | 
+<a href="http://www.timesplus.co.uk/welcome/tp_terms.htm">Terms &amp; Conditions</a> | 
+<a href="http://www.timesplus.co.uk/welcome/tp_contact.htm">Contact us</a>
+</div>
+</div>
+</div>
+<!--SUNDAY TIMES -->
+<preform>
+<script type="text/javascript">
+(function() {
+var url = window.location.href,
+isTimesHome = /\/tto\/news\/$/gi.test(url),
+dt = new Date(),
+isSunday = (dt.getDay() == 0),
+hasBeenRedirected = !!get_cookie('hasBeenRedirected');
+// if we are on the tto homepage
+if(isTimesHome && isSunday && !hasBeenRedirected) {
+set_cookie('hasBeenRedirected', 'true', 18*60*60, "/" );
+window.location.href = 'http://www.thesundaytimes.co.uk/sto/?ILC=INTstp2';
+}
+})()
+</script>
+</preform>
+<!--TIMES CYCLING CAMPAIGN-->
+<script type="text/javascript">
+if( /\/tto\/news\/$/gi.test(window.location.href) ){
+$(".mast-head").append("<a style='position:absolute; top:28px; left:724px' href='http://www.thetimes.co.uk/tto/public/cyclesafety/'><img src='http://www.thetimes.co.uk/tto/multimedia/archive/00259/cities_for_cycling__259508a.png' alt='Times Appeal' /></a>");
+}
+</script>
+<!--TIMES XMAS APPEAL LOGO-->
+<script type="text/javascript">
+if( /\/tto\/news\/$/gi.test(window.location.href) ){
+$(".mast-head").append("<a style='position:absolute; top:28px; left:152px' href='http://www.thetimes.co.uk/tto/public/timesappeal'><img src='http://www.thetimes.co.uk/tto/multimedia/archive/00084/XMAS-APPEAL_HINT_84515a.png' alt='Times Appeal' /></a>");
+}
+</script>
+<!--Journalist Avator tag fix -->
+<style>
+#niCommentingRig.fyre .fyre-widget .fyre-comment-author-tag-TTO_Journalist {
+background-color: #F4F3E1;
+padding-top: 8px;
+padding-left: 8px;
+}
+#niCommentingRig.fyre .fyre-widget .fyre-comment-author-tag-Standard .fyre-comment-user {
+display: none !important;
+}
+#niCommentingRig.fyre .fyre-widget .fyre-comment-author-tag-TTO_Journalist .fyre-comment-user {
+display: block;
+width: 60px;
+height: 60px;
+float: left;
+background-image: url('/tto/public/img/commentingAvatarTTO.png');
+background-repeat: no-repeat;
+padding-left: 8px;
+position: relative;
+}
+#niCommentingRig.fyre .fyre-widget .fyre-comment-author-tag-TTO_Journalist .fyre-comment-user a {
+display: none;
+}
+</style>
+<!--Article package double MPU fix-->
+<style>
+.t-package-article .article-side #mpu1 .tto-mpu {
+float: none; }
+</style>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var lastNewsFlashArticle = tto.util.getValueFromMultiValueCookie("ttodata", "lastNewsFlashArticle");
+var flashClass = "flash-bg";
+if (lastNewsFlashArticle.length != 0) {
+if (lastNewsFlashArticle == "3668182"){
+flashClass = "ticker-bg no-newsflash";
+} else if (lastNewsFlashArticle == "both+3668182"){
+flashClass = "hide-all";
+}
+}
+if (flashClass == "ticker-bg no-newsflash" || flashClass == "ticker-bg" || flashClass == "flash-bg"){
+$("#sub-prime li a").css("height","29px");
+}
+$('#newsflash-ticker-placeholder').addClass(flashClass);
+//]]>
+</script>
+<script type="text/javascript" src="http://player.ooyala.com/v3/NzUwODU5MDkxMWQyNmI0ZWZhOTViMzI0"></script>
+<script type="text/javascript" src="/tto/public/75265/js/tto-bottom-unified.js"></script>
+<script type="text/javascript" src="/tto/public/75265/js/tto-cookie-message.js"></script>
+<script type="text/javascript">
+/***************************************************************/
+/* All parameter options are optional */
+/* Parameter options are */
+/* timeOut = amount of time before the message auto hides */
+/* width = width of the inner bar */
+/* height = height of the message bar */
+/* background = color of the background of the bar */
+/* opacity = opacity of the message bar */
+/* fontSize = size of the font */
+/* fontColor = color of the font */
+/* fontFamily = font to use */
+/* messageText = 3 part arrary containing before, link and */
+/* after text as elements 0-2 */
+/* acceptText = Text to be used for the accept button */
+/* termsLink = The link from the body text */
+/* paddingTop = The padding above the text in the banner */
+/* acceptPadding = Padding around the accept button */
+/* acceptMargin = margin above the accept button */
+/***************************************************************/
+var params={};
+params.width=956;
+params.height=30;
+params.fontSize=12;
+params.paddingTop=7;
+params.fontFamily = "arial";
+params.timeOut = 60000;
+params.opacity = 0.6;
+params.background = "#000000";
+showCookiesMessage(params);
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$("#newsflash-ticker-placeholder").fetch('/tto/public/?service=ajaxHandler&type=flashTicker&sec=News&ftf=both+3668182').css("height","auto");
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(window).load(function() {
+if ($('#clock').length) {
+var ttoClock = new tto.clock('/tto/public');
+};
+var ttoCountryCode = new tto.countryCode('/tto/');	
+if (tto.browser.osVendor=="ios"){
+var ttoReplaceLogo = new tto.replaceLogo('/tto/public');
+};
+});
+//]]>
+</script>
+<!-- checking if in IAM -->
+<script type="text/javascript">
+<!--
+var utag_data = {
+site : "tto",
+type : "INDEX",
+title : "News",
+path : "/news",
+path_names : "/News",
+section_id : "342",
+interactive_tracking_2: "tnl//notavailable"
+}
+if (tto.hub.checkState()=="open"){
+utag_data['interactive_tracking']= "tnl//hub/open-auto" ;
+}
+//-->
+</script>
+<script type="text/javascript" src="http://tealium.hs.llnwd.net/o43/utag/newsinternational/thetimes/prod/utag.js"></script>
+<!-- End - checking if in IAM -->
+<div id="mpu-block" class="tto-hide">
+<div class="tto-mpu" id="content-mpu-banner">
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/homepage.thetimes/mainhomepage/index;pos=pushdown;dcopt=ist;sz=970x66;'+ RStag +'tile=1;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/homepage.thetimes/mainhomepage/index;pos=pushdown;sz=970x66;tile=1;;ord=1359108773212?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/ad/homepage.thetimes/mainhomepage/index;pos=pushdown;tile=1;sz=970x66;ord=1359108773212" width="970" height="66" border="0" alt="" /></a></noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+<div class="tto-mpu" id="content-indexmpu1">
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/homepage.thetimes/mainhomepage/index;pos=indexmpu;sz=300x250;'+ RStag +'tile=2;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/homepage.thetimes/mainhomepage/index;pos=indexmpu;sz=300x250;tile=2;;ord=1359108773212?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/ad/homepage.thetimes/mainhomepage/index;pos=indexmpu;tile=2;sz=300x250;ord=1359108773212" width="300" height="250" border="0" alt="" /></a></noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+<div class="tto-mpu" id="content-mpu-bottommpu">
+<!-- BEGIN: Module - Advert:Top -->
+<script type="text/javascript">
+<!--
+var RStag = "";
+try{
+RStag = segQS;
+}
+catch(e){
+RStag = "";
+}
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/homepage.thetimes/mainhomepage/index;pos=bottommpu;sz=300x251;'+ RStag +'tile=3;ord='+randnum+'?"><\/script>');
+//-->
+</script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/homepage.thetimes/mainhomepage/index;pos=bottommpu;sz=300x251;tile=3;;ord=1359108773212?" target="_blank"> 
+<img src="http://ad.uk.doubleclick.net/ad/homepage.thetimes/mainhomepage/index;pos=bottommpu;tile=3;sz=300x251;ord=1359108773212" width="300" height="251" border="0" alt="" /></a></noscript>
+<!-- END: Module - Advert:Top -->
+</div>
+</div>
+<!-- BEGIN: Module - Advert:Top -->
+<!-- END: Module - Advert:Top -->
+<script type="text/javascript" src="/tto/public/js/mpus/tto-move-mpus.js"></script>
+</body>
+</html>

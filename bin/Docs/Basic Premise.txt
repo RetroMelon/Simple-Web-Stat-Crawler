@@ -1,0 +1,37 @@
+	Web crawler with frontend and following feature:
+		Multithreaded.
+		Specify bandwidth consumption.
+		Index on Site level and Page level
+		Index based on:
+			Document type
+			Outbound Links
+			Inbound Links
+			Word Count
+			Word Occurences
+		Download Files of specific 
+		Create Graphs
+		Built In Search Engine Database
+		Export Data to CSV for excel
+		Breadth First or Depth First (Page and Site level)
+		checks www.test.com/robots.txt to ensure we are allowed to scan
+		Have a courtesy crawl delay
+
+
+
+
+
+required systems:
+
+	Web Crawling Agents
+	Controller for Agents
+	Flexible Database for Data
+	Link sanitiser
+	Crawlability Discriminator
+	Search "Framework" with flexibility to support different algorithms
+	
+
+Basic Structure
+
+Agent - contains multiple crawlers that can crawl multiple links simultaneously. The agent is responsible for initialising crawlers, and holding all of the links requiring crawling.
+
+Crawler - Downloads
