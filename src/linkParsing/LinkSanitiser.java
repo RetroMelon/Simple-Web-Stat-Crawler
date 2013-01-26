@@ -16,7 +16,7 @@ import debug.Debug;
 
 public class LinkSanitiser {
 	
-	public static String SanitiseLink(String link, String parentpagelink){
+	public static String sanitiseLink(String link, String parentpagelink){
 		String sanitisedlink = link;
 		
 		//splitting the link in case it has a "#"

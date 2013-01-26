@@ -7,7 +7,6 @@ import mining.StandardMiner;
 import mining.miningcomponents.LinkMiningComponent;
 import database.TestDatabase;
 import debug.Debug;
-import fetching.SimpleFetcher;
 import fetching.TestFetcher;
 
 public class LinkMiningComponentTester {
@@ -20,7 +19,7 @@ public class LinkMiningComponentTester {
 			System.out.println(pagedata);
 			System.out.print("\n\n\n\n");
 			
-			LinkMiningComponent m = new LinkMiningComponent(new TestDatabase(), new TestAgent(), new StandardMiner(new TestDatabase(), new TestAgent(), ""));
+			LinkMiningComponent m = new LinkMiningComponent(new TestDatabase(), new TestAgent(), new StandardMiner(new TestDatabase(), new TestAgent(), "http://www.gla.ac.uk/lolcats"));
 			
 			m.processData(pagedata);
 			

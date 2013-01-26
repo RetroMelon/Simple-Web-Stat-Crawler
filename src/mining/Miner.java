@@ -99,5 +99,10 @@ public abstract class Miner {
 		}
 		
 	}
-
+	
+	//all get and set methods
+	
+	public String getPageURL(){
+		return pageURL;
+	}
 }

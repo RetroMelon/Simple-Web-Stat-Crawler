@@ -2,6 +2,7 @@ package mining.miningcomponents;
 
 import java.util.ArrayList;
 
+import linkParsing.LinkSanitiser;
 import mining.Miner;
 import agent.Agent;
 import database.Database;
@@ -40,6 +41,17 @@ public class LinkMiningComponent implements MiningComponent {
 				links.add(splitdata[i+1]);
 			}
 		}
+		
+		ArrayList<String> sanitisedlinks = new ArrayList<String>();
+		for(int i = 0; i<links.size(); i++){
+			String sanitisedlink = LinkSanitiser.sanitiseLink(links.get(i), miner.getPageURL());
+			
+			if(sanitisedlink != null){//if the url was garbage, do not add it to the sanitisedlinks list
+				sanitisedlinks.add(sanitisedlink);
+			}
+		}
+		
+		links = sanitisedlinks;
 	}
 	
 	public ArrayList<String> getLinks(){
