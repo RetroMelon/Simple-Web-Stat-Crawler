@@ -34,7 +34,6 @@ public class LinkMiningComponent implements MiningComponent {
 	@Override
 	public void processData(String data) {
 		
-		
 		String[] splitdata = data.split("\"");
 		for(int i = 0; i<splitdata.length; i++){
 			if(splitdata[i].contains("href=") || splitdata[i].contains("src=")){
