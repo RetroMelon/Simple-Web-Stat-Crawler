@@ -3,11 +3,15 @@ package mining;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.Map.Entry;
 
+import mining.miningcomponents.LinkMiningComponent;
 import mining.miningcomponents.MiningComponent;
+import mining.miningcomponents.MiningComponentClass;
 
 import agent.Agent;
 import database.Database;
+import debug.Debug;
 import fetching.*;
 
 /*
@@ -64,23 +68,36 @@ public abstract class Miner {
 	
 	protected abstract void setupMiningComponents();
 	
-	protected void addMiningComponent(MiningComponent m){
+	protected void addMiningComponent(MiningComponentClass m){
 		miningComponents.put(m.getComponentID(), m);
 	}
 	
-	private void fetchData(){
+	//returns false if it fails
+	private boolean fetchData(){
 		try {
+			System.out.print("Fetching...");
 			pageData = fetcher.fetchData(pageURL);
+			System.out.print("Fetched...");
 		} catch (Exception e) {
-			e.printStackTrace();
+			return false;
 		}
+		
+		if(pageData.equals(""))return false;
+		
+		return true;
 	}
 	
 	private void processData(){
-		Iterator<MiningComponent> iterator = miningComponents.entrySet().iterator();
-		while(iterator.hasNext()){
-			((MiningComponent) iterator.next()).processData(pageData);
+		//((LinkMiningComponent) miningComponents.get(LinkMiningComponent.ID)).processData(pageData);
+		
+		//this array is an array of entries. In order to get the actual mining components, we must cast them to an entry, then call getValue()
+		Object[] MiningComponentSet = miningComponents.entrySet().toArray();
+		
+		for(int i = 0; i<MiningComponentSet.length; i++){
+			MiningComponent m = (MiningComponent) ((Entry)MiningComponentSet[i]).getValue();
+			m.processData(pageData);
 		}
+		
 	}
 	
 	protected abstract void notifyAgent();
@@ -90,11 +107,16 @@ public abstract class Miner {
 		@Override
 		public void run() {
 			running = true;
-			fetchData();
-			if(pageData.equals("")){return;}
-			setupMiningComponents();
-			processData();
+			if(fetchData()){//only if the fetching of the data was successful do we bother processing it.
+				System.out.print("Preparing to process...");
+				setupMiningComponents();
+				System.out.print("Processing...");
+				processData();
+				System.out.print("Processed...");
+			}
+			System.out.print("notifying agent then quitting...\n");
 			notifyAgent();
+
 			running = false;
 		}
 		
@@ -104,5 +126,9 @@ public abstract class Miner {
 	
 	public String getPageURL(){
 		return pageURL;
+	}
+	
+	public MiningComponent getMiningComponent(byte ID){
+		return (MiningComponent) miningComponents.get(ID);
 	}
 }

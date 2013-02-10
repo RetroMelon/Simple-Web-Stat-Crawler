@@ -17,11 +17,15 @@ public class SimpleFetcher implements Fetcher{
 		
 		URL url = new URL(pageURL);
 		
-		BufferedReader Reader = new BufferedReader(new InputStreamReader(url.openStream()));
-		
-		String line;
-		while((line = Reader.readLine()) != null){
-			pageData = pageData + line + "\n";
+		try{
+			BufferedReader Reader = new BufferedReader(new InputStreamReader(url.openStream()));
+			
+			String line;
+			while((line = Reader.readLine()) != null){
+				pageData = pageData + line + "\n";
+			}
+		}catch(Exception e){
+			return "";
 		}
 		
 		return pageData;

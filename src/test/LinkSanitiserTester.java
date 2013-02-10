@@ -23,7 +23,7 @@ public class LinkSanitiserTester {
 		};
 		
 		for(int i = 0; i<testlinks.length; i++){
-			System.out.println(testlinks[i] + "\t\t => \t\t" + LinkSanitiser.SanitiseLink(testlinks[i], parentlink));
+			System.out.println(testlinks[i] + "\t\t => \t\t" + LinkSanitiser.sanitiseLink(testlinks[i], parentlink));
 		}
 
 	}

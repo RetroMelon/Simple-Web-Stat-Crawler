@@ -1,0 +1,6 @@
+Todo:
+
+*Clean up all components so that if they return nulls, or empty strings, they actually do so.
+*If they throw exceptions, make sure they have a good reason to. and make sure it's documented.
+*problems with link sanitiser causes complete link to be appended to the end of other link,
+ such as: "http://en.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wikipedia_editing_interface.png/220px-Wikipedia_editing_interface.png"

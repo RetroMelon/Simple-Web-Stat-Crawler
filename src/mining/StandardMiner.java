@@ -1,5 +1,6 @@
 package mining;
 
+import mining.miningcomponents.LinkMiningComponent;
 import agent.Agent;
 import database.Database;
 
@@ -17,13 +18,12 @@ public class StandardMiner extends Miner{
 	 * word count 
 	 */
 	protected void setupMiningComponents() {
-		
+		addMiningComponent(new LinkMiningComponent(database, agent, this));
 	}
 
 	@Override
 	protected void notifyAgent() {
-		// TODO Auto-generated method stub
-		
+		agent.notifyMiner(this);		
 	}
 
 }

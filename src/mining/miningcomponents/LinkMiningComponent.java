@@ -11,7 +11,7 @@ import database.Database;
  * the link miner mines for all types of link including links to image files.
  */
 
-public class LinkMiningComponent implements MiningComponent {
+public class LinkMiningComponent extends MiningComponentClass {
 
 	public static final byte ID = 0;
 
@@ -37,7 +37,7 @@ public class LinkMiningComponent implements MiningComponent {
 		
 		String[] splitdata = data.split("\"");
 		for(int i = 0; i<splitdata.length; i++){
-			if(splitdata[i].contains("href=") || splitdata[i].contains("src=")){
+			if((splitdata[i].contains("href=") || splitdata[i].contains("src=")) && splitdata.length-2>=i){
 				links.add(splitdata[i+1]);
 			}
 		}

@@ -21,7 +21,11 @@ public final class Debug {
 	 */
 	
 	public static void println(String Sender, String Message){
-		System.out.println(PREFIX+SEPARATOR+Sender+SEPARATOR+Message);
+		System.out.print(PREFIX+SEPARATOR+Sender+SEPARATOR+Message+"\n");
+	}
+	
+	public static void print(String Sender, String Message){
+		System.out.print(PREFIX+SEPARATOR+Sender+SEPARATOR+Message);
 	}
 	
 	public static void printst(Exception exception){
