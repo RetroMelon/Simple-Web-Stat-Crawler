@@ -34,4 +34,4 @@ Basic Structure
 
 Agent - contains multiple crawlers that can crawl multiple links simultaneously. The agent is responsible for initialising crawlers, and holding all of the links requiring crawling.
 
-Crawler - Downloads
+Crawler - Downloads all of the data from the page. It then performs an operation; usually extracting links, and sends them to the agent.
